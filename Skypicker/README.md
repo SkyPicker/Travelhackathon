@@ -1,0 +1,1 @@
+## The Skypicker docs are available at http://docs.skypickerpublicapi.apiary.io/

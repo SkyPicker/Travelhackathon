@@ -1,0 +1,1 @@
+# The docs are available at http://hackathon.tripomatic.com
