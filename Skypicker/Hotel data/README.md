@@ -1,3 +1,6 @@
+Hotel data feed from http://www.anixe.pl/
+
+
 Field description:
  
 ·         tlc - possible destination codes from Blender 3-letter codes, comma-separated
